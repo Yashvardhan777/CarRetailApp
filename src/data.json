@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "type": "Sedan",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2023,
+    "price": 24999,
+    "vin": "4T1B11HK2PU123456",
+    "stockId": "CAM2023-01",
+    "description": "The 2023 Toyota Camry is a reliable midsize sedan with a comfortable ride and advanced safety features. It features a modern design and offers a range of tech and comfort options.",
+    "images": [
+      "https://www.auto-data.net/en/toyota-camry-xv70-2017-4030#image1",
+      "https://www.auto-data.net/en/toyota-camry-xv70-2017-4030#image2",
+      "https://www.auto-data.net/en/toyota-camry-xv70-2017-4030#image3"
+    ]
+  },
+  {
+    "id": 2,
+    "type": "SUV",
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2023,
+    "price": 29999,
+    "vin": "5J6D5H96PPL123456",
+    "stockId": "CRV2023-02",
+    "description": "The 2023 Honda CR-V offers a spacious interior, a smooth ride, and advanced safety features. Known for its practicality and reliability, it’s a great choice for families.",
+    "images": [
+      "https://www.auto-data.net/en/honda-cr-v-v-2017-4031#image1",
+      "https://www.auto-data.net/en/honda-cr-v-v-2017-4031#image2",
+      "https://www.auto-data.net/en/honda-cr-v-v-2017-4031#image3"
+    ]
+  },
+  {
+    "id": 3,
+    "type": "Sedan",
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 2023,
+    "price": 43999,
+    "vin": "WBA5R7C51J7A12345",
+    "stockId": "BMW2023-03",
+    "description": "The 2023 BMW 3 Series is a compact luxury sedan known for its sporty handling, advanced technology, and premium interior. It offers a dynamic driving experience.",
+    "images": [
+      "https://www.auto-data.net/en/bmw-3-series-g80-2018-4217#image1",
+      "https://www.auto-data.net/en/bmw-3-series-g80-2018-4217#image2",
+      "https://www.auto-data.net/en/bmw-3-series-g80-2018-4217#image3"
+    ]
+  },
+  {
+    "id": 4,
+    "type": "Truck",
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2023,
+    "price": 39999,
+    "vin": "1FTEW1EP5PKD12345",
+    "stockId": "F1502023-04",
+    "description": "The 2023 Ford F-150 is a full-size truck known for its durability, powerful engine options, and advanced technology. It offers impressive towing capabilities and a comfortable ride.",
+    "images": [
+      "https://www.auto-data.net/en/ford-f-150-vi-2015-4032#image1",
+      "https://www.auto-data.net/en/ford-f-150-vi-2015-4032#image2",
+      "https://www.auto-data.net/en/ford-f-150-vi-2015-4032#image3"
+    ]
+  },
+  {
+    "id": 5,
+    "type": "Coupe",
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": 2023,
+    "price": 35999,
+    "vin": "1G1FB1R74P0123456",
+    "stockId": "CAM2023-05",
+    "description": "The 2023 Chevrolet Camaro is an iconic American muscle car with aggressive styling and powerful performance. It delivers a thrilling driving experience with advanced technology features.",
+    "images": [
+      "https://www.auto-data.net/en/chevrolet-camaro-vii-2016-4033#image1",
+      "https://www.auto-data.net/en/chevrolet-camaro-vii-2016-4033#image2",
+      "https://www.auto-data.net/en/chevrolet-camaro-vii-2016-4033#image3"
+    ]
+  },
+  {
+    "id": 6,
+    "type": "SUV",
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2023,
+    "price": 34999,
+    "vin": "5TDJZRFH4PS123456",
+    "stockId": "HIGH2023-06",
+    "description": "The 2023 Toyota Highlander is a midsize SUV that combines ample space, a comfortable ride, and advanced safety features. It’s ideal for families and offers a range of tech options.",
+    "images": [
+      "https://www.auto-data.net/en/toyota-highlander-v-2019-4034#image1",
+      "https://www.auto-data.net/en/toyota-highlander-v-2019-4034#image2",
+      "https://www.auto-data.net/en/toyota-highlander-v-2019-4034#image3"
+    ]
+  },
+  {
+    "id": 7,
+    "type": "Sedan",
+    "make": "Audi",
+    "model": "A4",
+    "year": 2023,
+    "price": 42999,
+    "vin": "WAUENAF45LN123456",
+    "stockId": "AUD2023-07",
+    "description": "The 2023 Audi A4 is a luxury sedan that offers a refined interior, advanced technology, and a balanced ride. It combines performance with elegance for a premium driving experience.",
+    "images": [
+      "https://www.auto-data.net/en/audi-a4-b9-2016-4035#image1",
+      "https://www.auto-data.net/en/audi-a4-b9-2016-4035#image2",
+      "https://www.auto-data.net/en/audi-a4-b9-2016-4035#image3"
+    ]
+  },
+  {
+    "id": 8,
+    "type": "Coupe",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2023,
+    "price": 49999,
+    "vin": "WDDWJ4GB0RF123456",
+    "stockId": "MB2023-08",
+    "description": "The 2023 Mercedes-Benz C-Class is a luxury coupe that features a sleek design, a high-tech interior, and powerful engine options. It delivers a blend of performance and luxury.",
+    "images": [
+      "https://www.auto-data.net/en/mercedes-benz-c-class-w205-2018-4036#image1",
+      "https://www.auto-data.net/en/mercedes-benz-c-class-w205-2018-4036#image2",
+      "https://www.auto-data.net/en/mercedes-benz-c-class-w205-2018-4036#image3"
+    ]
+  },
+  {
+    "id": 9,
+    "type": "Truck",
+    "make": "Ram",
+    "model": "1500",
+    "year": 2023,
+    "price": 42999,
+    "vin": "1C6SRFFT7PN123456",
+    "stockId": "RAM2023-09",
+    "description": "The 2023 Ram 1500 is a full-size truck that offers a rugged design, powerful engine options, and a high-quality interior. It’s known for its excellent towing and payload capacities.",
+    "images": [
+      "https://www.auto-data.net/en/ram-1500-v-2019-4037#image1",
+      "https://www.auto-data.net/en/ram-1500-v-2019-4037#image2",
+      "https://www.auto-data.net/en/ram-1500-v-2019-4037#image3"
+    ]
+  },
+  {
+    "id": 10,
+    "type": "Hatchback",
+    "make": "Volkswagen",
+    "model": "Golf",
+    "year": 2023,
+    "price": 25999,
+    "vin": "3VWCB7BU3PM123456",
+    "stockId": "GOLF2023-10",
+    "description": "The 2023 Volkswagen Golf is a compact hatchback that combines sporty handling with a practical design. It offers a comfortable ride and a range of tech features.",
+    "images": [
+      "https://www.auto-data.net/en/volkswagen-golf-vii-2013-4038#image1",
+      "https://www.auto-data.net/en/volkswagen-golf-vii-2013-4038#image2",
+      "https://www.auto-data.net/en/volkswagen-golf-vii-2013-4038#image3"
+    ]
+  },
+  {
+    "id": 11,
+    "type": "Sedan",
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2023,
+    "price": 27999,
+    "vin": "1N4BL4BV5LN123456",
+    "stockId": "ALT2023-11",
+    "description": "The 2023 Nissan Altima is a midsize sedan with a comfortable interior, a smooth ride, and advanced safety features. It offers a good balance of performance and efficiency.",
+    "images": [
+      "https://www.auto-data.net/en/nissan-altima-v-2018-4039#image1",
+      "https://www.auto-data.net/en/nissan-altima-v-2018-4039#image2",
+      "https://www.auto-data.net/en/nissan-altima-v-2018-4039#image3"
+    ]
+  },
+  {
+    "id": 12,
+    "type": "SUV",
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": 2023,
+    "price": 31999,
+    "vin": "JM3KFABM0P0123456",
+    "stockId": "CX52023-12",
+    "description": "The 2023 Mazda CX-5 is a compact SUV known for its stylish design, upscale interior, and engaging driving dynamics. It provides a well-rounded driving experience.",
+    "images": [
+      "https://www.auto-data.net/en/mazda-cx-5-2017-4040#image1",
+      "https://www.auto-data.net/en/mazda-cx-5-2017-4040#image2",
+      "https://www.auto-data.net/en/mazda-cx-5-2017-4040#image3"
+    ]
+  },
+  {
+    "id": 13,
+    "type": "Coupe",
+    "make": "Jaguar",
+    "model": "F-Type",
+    "year": 2023,
+    "price": 69999,
+    "vin": "SAJDD1E42PCK12345",
+    "stockId": "JAG2023-13",
+    "description": "The 2023 Jaguar F-Type is a high-performance sports coupe with stunning design and powerful engine options. It offers a thrilling driving experience and luxurious features.",
+    "images": [
+      "https://www.auto-data.net/en/jaguar-f-type-2014-4041#image1",
+      "https://www.auto-data.net/en/jaguar-f-type-2014-4041#image2",
+      "https://www.auto-data.net/en/jaguar-f-type-2014-4041#image3"
+    ]
+  },
+  {
+    "id": 14,
+    "type": "Truck",
+    "make": "Toyota",
+    "model": "Tundra",
+    "year": 2023,
+    "price": 44999,
+    "vin": "5TFDY5F19PX123456",
+    "stockId": "TUN2023-14",
+    "description": "The 2023 Toyota Tundra is a full-size truck that offers robust performance, a spacious interior, and advanced safety features. It’s designed for both work and leisure.",
+    "images": [
+      "https://www.auto-data.net/en/toyota-tundra-iii-2021-4042#image1",
+      "https://www.auto-data.net/en/toyota-tundra-iii-2021-4042#image2",
+      "https://www.auto-data.net/en/toyota-tundra-iii-2021-4042#image3"
+    ]
+  },
+  {
+    "id": 15,
+    "type": "Hatchback",
+    "make": "Ford",
+    "model": "Focus",
+    "year": 2023,
+    "price": 22999,
+    "vin": "1FADP3F26JL123456",
+    "stockId": "FOC2023-15",
+    "description": "The 2023 Ford Focus is a compact hatchback that offers a stylish design, a comfortable interior, and a fun-to-drive character. It features a range of modern technology.",
+    "images": [
+      "https://www.auto-data.net/en/ford-focus-iv-2018-4043#image1",
+      "https://www.auto-data.net/en/ford-focus-iv-2018-4043#image2",
+      "https://www.auto-data.net/en/ford-focus-iv-2018-4043#image3"
+    ]
+  },
+  {
+    "id": 16,
+    "type": "Sedan",
+    "make": "Hyundai",
+    "model": "Sonata",
+    "year": 2023,
+    "price": 26999,
+    "vin": "5NPE24AF2PH123456",
+    "stockId": "SON2023-16",
+    "description": "The 2023 Hyundai Sonata is a midsize sedan known for its sleek design, comfortable interior, and a range of tech features. It offers a smooth ride and efficient performance.",
+    "images": [
+      "https://www.auto-data.net/en/hyundai-sonata-vi-2019-4044#image1",
+      "https://www.auto-data.net/en/hyundai-sonata-vi-2019-4044#image2",
+      "https://www.auto-data.net/en/hyundai-sonata-vi-2019-4044#image3"
+    ]
+  },
+  {
+    "id": 17,
+    "type": "SUV",
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "year": 2023,
+    "price": 28999,
+    "vin": "2GNAXHEV6P6123456",
+    "stockId": "EQU2023-17",
+    "description": "The 2023 Chevrolet Equinox is a compact SUV with a modern design, a comfortable ride, and a range of technology features. It offers a good balance of style and practicality.",
+    "images": [
+      "https://www.auto-data.net/en/chevrolet-equinox-ii-2017-4045#image1",
+      "https://www.auto-data.net/en/chevrolet-equinox-ii-2017-4045#image2",
+      "https://www.auto-data.net/en/chevrolet-equinox-ii-2017-4045#image3"
+    ]
+  },
+  {
+    "id": 18,
+    "type": "Coupe",
+    "make": "Porsche",
+    "model": "911",
+    "year": 2023,
+    "price": 99999,
+    "vin": "WP0AB2A99PS123456",
+    "stockId": "9112023-18",
+    "description": "The 2023 Porsche 911 is a high-performance sports car with iconic styling and thrilling driving dynamics. It offers a range of powerful engines and a luxurious interior.",
+    "images": [
+      "https://www.auto-data.net/en/porsche-911-2019-4046#image1",
+      "https://www.auto-data.net/en/porsche-911-2019-4046#image2",
+      "https://www.auto-data.net/en/porsche-911-2019-4046#image3"
+    ]
+  },
+  {
+    "id": 19,
+    "type": "Truck",
+    "make": "Nissan",
+    "model": "Titan",
+    "year": 2023,
+    "price": 41999,
+    "vin": "1N6AA1EJ7PN123456",
+    "stockId": "TIT2023-19",
+    "description": "The 2023 Nissan Titan is a full-size truck known for its powerful engine and spacious interior. It’s designed for heavy-duty tasks and provides a comfortable driving experience.",
+    "images": [
+      "https://www.auto-data.net/en/nissan-titan-ii-2020-4047#image1",
+      "https://www.auto-data.net/en/nissan-titan-ii-2020-4047#image2",
+      "https://www.auto-data.net/en/nissan-titan-ii-2020-4047#image3"
+    ]
+  },
+  {
+    "id": 20,
+    "type": "Hatchback",
+    "make": "Mazda",
+    "model": "Mazda3",
+    "year": 2023,
+    "price": 24999,
+    "vin": "JM1BPBMM0P123456",
+    "stockId": "MAZ2023-20",
+    "description": "The 2023 Mazda3 is a compact hatchback with a sporty design, high-quality interior, and engaging driving dynamics. It offers a blend of performance and practicality.",
+    "images": [
+      "https://www.auto-data.net/en/mazda3-iv-2019-4048#image1",
+      "https://www.auto-data.net/en/mazda3-iv-2019-4048#image2",
+      "https://www.auto-data.net/en/mazda3-iv-2019-4048#image3"
+    ]
+  },
+  {
+    "id": 21,
+    "type": "Sedan",
+    "make": "Kia",
+    "model": "Optima",
+    "year": 2023,
+    "price": 25999,
+    "vin": "5XXGT4L22PG123456",
+    "stockId": "OPT2023-21",
+    "description": "The 2023 Kia Optima is a midsize sedan that offers a stylish design, a comfortable ride, and a range of technology features. It’s known for its value and efficiency.",
+    "images": [
+      "https://www.auto-data.net/en/kia-optima-v-2019-4049#image1",
+      "https://www.auto-data.net/en/kia-optima-v-2019-4049#image2",
+      "https://www.auto-data.net/en/kia-optima-v-2019-4049#image3"
+    ]
+  },
+  {
+    "id": 22,
+    "type": "SUV",
+    "make": "Jeep",
+    "model": "Cherokee",
+    "year": 2023,
+    "price": 31999,
+    "vin": "1C4PJMCX7PD123456",
+    "stockId": "CHE2023-22",
+    "description": "The 2023 Jeep Cherokee is a compact SUV known for its off-road capability, comfortable interior, and advanced technology features. It’s a versatile choice for adventure seekers.",
+    "images": [
+      "https://www.auto-data.net/en/jeep-cherokee-2018-4050#image1",
+      "https://www.auto-data.net/en/jeep-cherokee-2018-4050#image2",
+      "https://www.auto-data.net/en/jeep-cherokee-2018-4050#image3"
+    ]
+  },
+  {
+    "id": 23,
+    "type": "Coupe",
+    "make": "Subaru",
+    "model": "BRZ",
+    "year": 2023,
+    "price": 33999,
+    "vin": "JF1ZCAC15P123456",
+    "stockId": "BRZ2023-23",
+    "description": "The 2023 Subaru BRZ is a sports coupe known for its sharp handling and engaging driving dynamics. It features a sleek design and a driver-focused interior.",
+    "images": [
+      "https://www.auto-data.net/en/subaru-brz-2021-4051#image1",
+      "https://www.auto-data.net/en/subaru-brz-2021-4051#image2",
+      "https://www.auto-data.net/en/subaru-brz-2021-4051#image3"
+    ]
+  },
+  {
+    "id": 24,
+    "type": "Truck",
+    "make": "Chevrolet",
+    "model": "Silverado 1500",
+    "year": 2023,
+    "price": 43999,
+    "vin": "1GCUDJED5PZ123456",
+    "stockId": "SIL2023-24",
+    "description": "The 2023 Chevrolet Silverado 1500 is a full-size truck with impressive towing capacity, a spacious interior, and a variety of engine options. It’s built for both work and play.",
+    "images": [
+      "https://www.auto-data.net/en/chevrolet-silverado-1500-2020-4052#image1",
+      "https://www.auto-data.net/en/chevrolet-silverado-1500-2020-4052#image2",
+      "https://www.auto-data.net/en/chevrolet-silverado-1500-2020-4052#image3"
+    ]
+  },
+  {
+    "id": 25,
+    "type": "Hatchback",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2023,
+    "price": 24999,
+    "vin": "2HGFC2F5XPH123456",
+    "stockId": "CIV2023-25",
+    "description": "The 2023 Honda Civic is a compact hatchback with a modern design, efficient performance, and a range of advanced technology features. It’s known for its reliability and value.",
+    "images": [
+      "https://www.auto-data.net/en/honda-civic-x-2016-4053#image1",
+      "https://www.auto-data.net/en/honda-civic-x-2016-4053#image2",
+      "https://www.auto-data.net/en/honda-civic-x-2016-4053#image3"
+    ]
+  },
+  {
+    "id": 26,
+    "type": "Sedan",
+    "make": "Ford",
+    "model": "Fusion",
+    "year": 2023,
+    "price": 26999,
+    "vin": "3FA6P0HR8PR123456",
+    "stockId": "FUS2023-26",
+    "description": "The 2023 Ford Fusion is a midsize sedan with a comfortable interior, advanced technology, and a range of efficient engines. It offers a smooth and enjoyable driving experience.",
+    "images": [
+      "https://www.auto-data.net/en/ford-fusion-2013-4054#image1",
+      "https://www.auto-data.net/en/ford-fusion-2013-4054#image2",
+      "https://www.auto-data.net/en/ford-fusion-2013-4054#image3"
+    ]
+  },
+  {
+    "id": 27,
+    "type": "SUV",
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "year": 2023,
+    "price": 33999,
+    "vin": "5NMS3DAJ8PH123456",
+    "stockId": "SFE2023-27",
+    "description": "The 2023 Hyundai Santa Fe is a midsize SUV that offers a spacious interior, modern design, and a range of advanced safety features. It’s known for its comfort and practicality.",
+    "images": [
+      "https://www.auto-data.net/en/hyundai-santa-fe-2019-4055#image1",
+      "https://www.auto-data.net/en/hyundai-santa-fe-2019-4055#image2",
+      "https://www.auto-data.net/en/hyundai-santa-fe-2019-4055#image3"
+    ]
+  },
+  {
+    "id": 28,
+    "type": "Coupe",
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "year": 2023,
+    "price": 64999,
+    "vin": "1G1YB2D78P5123456",
+    "stockId": "COR2023-28",
+    "description": "The 2023 Chevrolet Corvette is a high-performance sports car with a striking design and a powerful V8 engine. It offers exhilarating performance and a premium driving experience.",
+    "images": [
+      "https://www.auto-data.net/en/chevrolet-corvette-c8-2020-4056#image1",
+      "https://www.auto-data.net/en/chevrolet-corvette-c8-2020-4056#image2",
+      "https://www.auto-data.net/en/chevrolet-corvette-c8-2020-4056#image3"
+    ]
+  },
+  {
+    "id": 29,
+    "type": "Truck",
+    "make": "GMC",
+    "model": "Sierra 1500",
+    "year": 2023,
+    "price": 45999,
+    "vin": "3GTU2NEF9PG123456",
+    "stockId": "SIERRA2023-29",
+    "description": "The 2023 GMC Sierra 1500 is a full-size truck that offers a luxurious interior, powerful engine options, and advanced technology features. It’s built for both performance and comfort.",
+    "images": [
+      "https://www.auto-data.net/en/gmc-sierra-1500-2020-4057#image1",
+      "https://www.auto-data.net/en/gmc-sierra-1500-2020-4057#image2",
+      "https://www.auto-data.net/en/gmc-sierra-1500-2020-4057#image3"
+    ]
+  },
+  {
+    "id": 30,
+    "type": "Hatchback",
+    "make": "Subaru",
+    "model": "Impreza",
+    "year": 2023,
+    "price": 23999,
+    "vin": "JF1GJAA62PH123456",
+    "stockId": "IMP2023-30",
+    "description": "The 2023 Subaru Impreza is a compact hatchback with standard all-wheel drive, a comfortable interior, and a range of safety features. It’s known for its practicality and reliability.",
+    "images": [
+      "https://www.auto-data.net/en/subaru-impreza-2017-4058#image1",
+      "https://www.auto-data.net/en/subaru-impreza-2017-4058#image2",
+      "https://www.auto-data.net/en/subaru-impreza-2017-4058#image3"
+    ]
+  }
+]
